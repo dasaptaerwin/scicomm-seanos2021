@@ -1,0 +1,11 @@
+- Shared:
+	- notes
+	- data
+	- method
+- Collaborative thinking
+	- trust
+	- participation
+	- initiative
+- Accumulation of knowledge
+	- connected/connecting thinking
+	- [[LinkingYourThinking]]

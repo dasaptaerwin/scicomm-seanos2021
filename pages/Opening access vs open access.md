@@ -1,0 +1,10 @@
+- Opening access
+	- Open access to files
+	- Open access to contents
+		- Meaning
+		- Importance
+		- how to implement
+- Open Access
+	- becomes a jargon
+	- "I go OA"
+	- Means only putting a pdf on an open access journal

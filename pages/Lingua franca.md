@@ -1,0 +1,4 @@
+- English, Latin, German
+- vs translation app/platform
+- etc
+-

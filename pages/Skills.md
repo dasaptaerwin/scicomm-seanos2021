@@ -1,0 +1,9 @@
+- Communication
+	- Not enforcing, but making science interesting
+	- by creating values
+- Engagement
+	- Not only to share
+	- But also to response
+	- And to help others
+- [[Integrated thinking environment]]
+	-

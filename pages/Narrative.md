@@ -1,0 +1,3 @@
+- based on facts but beyond numbers
+- Story telling
+- Analogies/metaphores

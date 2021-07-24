@@ -1,0 +1,7 @@
+- [[Communicate]]
+- [[Dissemination vs publication]]
+- [[Opening access vs open access]]
+- [[Scicomm in the first hand]]
+- [[Tools]]
+- [[Skills]]
+- [[Narrative]]
