@@ -1,0 +1,3 @@
+- Free to read
+- Pay to publish
+- Shifting payment from readers to authors

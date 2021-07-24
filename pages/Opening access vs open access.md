@@ -7,4 +7,4 @@
 - Open Access
 	- becomes a jargon
 	- "I go OA"
-	- Means only putting a pdf on an open access journal
+	- Means only putting a pdf on a [[Gold]] open access journal
